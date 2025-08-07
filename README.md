@@ -1,7 +1,7 @@
 <h1 align="center">Igor Ibiapino dos Santos</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack ·
+  Desenvolvedor Full Stack · Sistemas para Internet
 </p>
 
 ---
@@ -12,39 +12,15 @@
 
 ## Sobre
 
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
-- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
+- Desenvolvimento Front-end
+- Desenvolvimento full stack com JavaScript
+- Estudando ensino superior de Tecnologia e sistemas para internet - SENAC
 
 ## Projetos em destaque
 
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
+- [Severinos](https://github.com/DrWisWis/severinos) – Plataforma de servisos e freelance
+- [Agendamentus](https://github.com/DrWisWis/agendamentus) – Sistema de agendamentos para pequenos empreendedores
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
-
----
-
-> Educar é tornar o saber algo com voz, sentido e sentimento.
-<!--
-**DrWisWis/DrWisWis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://br.linkedin.com/in/igor-ibiapino-dos-santos)
