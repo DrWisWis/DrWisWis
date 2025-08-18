@@ -12,8 +12,7 @@
 
 ## Sobre
 
-- Desenvolvimento Front-end
-- Desenvolvimento full stack com JavaScript
+- Desenvolvimento full stack - JavaScript
 - Estudando ensino superior de Tecnologia e sistemas para internet - SENAC
 
 ## Projetos em destaque
