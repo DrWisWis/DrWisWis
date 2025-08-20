@@ -13,7 +13,7 @@
 ## Sobre
 
 - Desenvolvimento full stack - JavaScript
-- Estudando ensino superior de Tecnologia e sistemas para internet - SENAC
+- Estudando ensino superior de Tecnologia e sistemas para internet - SENACSP
 
 ## Projetos em destaque
 
