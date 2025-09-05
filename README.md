@@ -12,7 +12,7 @@
 
 ## Sobre
 
-- Desenvolvimento full stack - JavaScript
+- Desenvolvimento full stack - JavaScript, PHP
 - Estudando ensino superior de Tecnologia e sistemas para internet - SENACSP
 
 ## Projetos em destaque
